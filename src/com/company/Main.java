@@ -7,4 +7,8 @@ public class Main {
         System.out.println("qaguru");
         System.out.println("slow_slow");
     }
+public static void another() {
+	System.out.println("Hello2");
+}
+	
 }
