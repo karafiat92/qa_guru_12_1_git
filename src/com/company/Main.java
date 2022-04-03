@@ -9,6 +9,7 @@ public class Main {
     }
 public static void another() {
 	System.out.println("new method changed");
+    System.out.println("new method2 changed");
 }
 	
 }
