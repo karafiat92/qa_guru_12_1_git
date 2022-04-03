@@ -8,7 +8,7 @@ public class Main {
         System.out.println("slow_slow");
     }
 public static void another() {
-	System.out.println("new method");
+	System.out.println("new method2");
 }
 	
 }
